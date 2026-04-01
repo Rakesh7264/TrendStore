@@ -16,4 +16,4 @@ spec:
       - name: trendstore-container
         image: rakesh7264/trendstore-app:latest
         ports:
-        - containerPort: 8080
+        - containerPort: 3000
